@@ -14,8 +14,8 @@ Delayed it a little bit to do the AI-900 Certificate.
 ![GitHub Logo](/extras/images/image6.png)\
 ![GitHub Logo](/extras/images/image3.png)\
 ![GitHub Logo](/extras/images/image4.png)\
-![GitHub Logo](/extras/images/image5.png)\
-![GitHub Logo](/extras/images/image2.png)
+![GitHub Logo](/extras/images/image2.png)\
+![GitHub Logo](/extras/images/image5.png)
 
 **** Run This Project ****
 
