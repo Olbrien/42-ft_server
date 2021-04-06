@@ -46,15 +46,15 @@ You then need to install LEMP.\
 [How to Install LEMP Stack on Debian 10 Buster Server/Desktop](https://www.linuxbabe.com/debian/install-lemp-stack-debian-10-buster)\
 [How To Install Linux, Nginx, MariaDB, PHP (LEMP stack) on Debian 10](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mariadb-php-lemp-stack-on-debian-10)\
 If you are like me, you'll most likely get stuck on the part "sudo mysql_secure_installation". Skip that part for now.\
-You also don't need to worry about ufw.\
+You also don't need to worry about ufw.
 
 SSL\
-[Creating a self signed SSL certificate](https://linuxize.com/post/creating-a-self-signed-ssl-certificate/)\
+[Creating a self signed SSL certificate](https://linuxize.com/post/creating-a-self-signed-ssl-certificate/)
 
 More links below:\
 [vvarodi](https://github.com/vvarodi/ft_server)\
 [forhjy part 1](https://forhjy.medium.com/how-to-install-lemp-wordpress-on-debian-buster-by-using-dockerfile-1-75ddf3ede861)\
-[forhjy part 2](https://forhjy.medium.com/42-ft-server-how-to-install-lemp-wordpress-on-debian-buster-by-using-dockerfile-2-4042adb2ab2c)\
+[forhjy part 2](https://forhjy.medium.com/42-ft-server-how-to-install-lemp-wordpress-on-debian-buster-by-using-dockerfile-2-4042adb2ab2c)
 
 
 If you try to run on port :80 and you're getting an error that a service is being used you can kill it.\
