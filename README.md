@@ -20,6 +20,13 @@ Delayed it a little bit to do the AI-900 Certificate.
 
 **** Info ****
 
+To do this project first you need to learn about docker.
+The link below is a great tutorial about Docker and it's probably the only thing you should read/see about this subject.
+[Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo) 
+
+
+
+
 <pre>
 git clone https://github.com/42Paris/minilibx-linux.git
 </pre>
