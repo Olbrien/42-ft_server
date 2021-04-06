@@ -40,7 +40,7 @@ or `bash /tmp/auto_index.sh off` to turn the auto_index on or off.
 
 To do this project first you need to learn about docker.\
 The link below is a great tutorial about Docker and it's probably the only thing you should see about this subject.\
-[Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)\
+[Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
 You then need to install LEMP.\
 [How to Install LEMP Stack on Debian 10 Buster Server/Desktop](https://www.linuxbabe.com/debian/install-lemp-stack-debian-10-buster)\
