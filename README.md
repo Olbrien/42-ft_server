@@ -11,11 +11,11 @@ Delayed it a little bit to do the AI-900 Certificate.
 **** Pictures ****
 
 ![GitHub Logo](/extras/images/image1.png)\
-![GitHub Logo](/extras/images/image2.png)\
+![GitHub Logo](/extras/images/image6.png)\
 ![GitHub Logo](/extras/images/image3.png)\
 ![GitHub Logo](/extras/images/image4.png)\
 ![GitHub Logo](/extras/images/image5.png)\
-![GitHub Logo](/extras/images/image6.png)
+![GitHub Logo](/extras/images/image2.png)
 
 **** Run This Project ****
 
@@ -30,7 +30,8 @@ You can now go to localhost and see the links.
 localhost/wordpress
 localhost/phpmyadmin
 
-When you're inside the bash you can type `bash /tmp/auto_index.sh on` or `bash /tmp/auto_index.sh off` to turn the auto_index on or off.
+When you're inside the bash you can type `bash /tmp/auto_index.sh on`
+or `bash /tmp/auto_index.sh off` to turn the auto_index on or off.
 </pre>
 
 
