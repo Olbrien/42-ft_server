@@ -223,6 +223,6 @@ ADD:
 
 	ADD https://nginx.org/download/${FILENAME}.${EXTENSION} .
 
-O ADD downloads the file from the link.
+ADD downloads the file from the link.
 
 </pre>
