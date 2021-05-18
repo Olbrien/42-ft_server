@@ -1,6 +1,11 @@
 # ft_server
 
-###### <i>Recent Update on 06/04/2021.</i>
+![GitHub Logo](/extras/images/Success.png)
+
+###### <i>Recent Update on 29/04/2021.</i>
+Got evaluated.
+
+###### <i>Old Update on 06/04/2021.</i>
 Finished the project.\
 Waiting to be evaluated.
 
