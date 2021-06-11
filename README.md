@@ -10,7 +10,7 @@
 • Started the project.
 • Delayed it a little bit to do the AI-900 Certificate.
 
-## Subject
+## Subject:
 
 You can find the subject of this project [here.](https://github.com/Olbrien/42Lisboa-lvl_2_ft_server/blob/main/extras/lvl_2_ft_server.pdf)
 
@@ -36,7 +36,7 @@ localhost/phpmyadmin
 When you're inside the bash you can type `bash /tmp/auto_index.sh on`\
 or `bash /tmp/auto_index.sh off` to turn the auto_index on or off.
 
-## Info
+## Info:
 
 To do this project first you need to learn about docker.\
 The link below is a great tutorial about Docker and it's probably the only thing you should see about this subject.\
@@ -64,7 +64,7 @@ Find the ones in the port :80 and then kill it with\
 `sudo kill 1548`\
 1548 is an example.
 
-## Research
+## Research:
 
 <pre>
 
