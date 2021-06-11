@@ -1,19 +1,18 @@
-# ft_server
-
 ![GitHub Logo](/extras/images/Success.png)
-
 ###### <i>Recent Update on 29/04/2021.</i>
-Got evaluated.
+• Got evaluated.
 
 ###### <i>Old Update on 06/04/2021.</i>
-Finished the project.\
-Waiting to be evaluated.
+• Finished the project.\
+• Waiting to be evaluated.
 
 ###### <i>Old Update on 27/03/2021.</i>
-Started the project.
-Delayed it a little bit to do the AI-900 Certificate.
+• Started the project.
+• Delayed it a little bit to do the AI-900 Certificate.
 
-**** Pictures ****
+## Subject
+
+You can find the subject of this project [here.](https://github.com/Olbrien/42Lisboa-lvl_2_ft_server/blob/main/extras/lvl_2_ft_server.pdf)
 
 ![GitHub Logo](/extras/images/image1.png)\
 ![GitHub Logo](/extras/images/image6.png)\
@@ -22,26 +21,22 @@ Delayed it a little bit to do the AI-900 Certificate.
 ![GitHub Logo](/extras/images/image2.png)\
 ![GitHub Logo](/extras/images/image5.png)
 
-**** Run This Project ****
+## How to run:
 
-<pre>
 First download the repository. 
 
-On the ft_server folder type 
-`sudo bash start.sh`
+On the ft_server folder type\
+`sudo bash start.sh`\
 Wait for it to compile. If you get error :80 port, see how to solve it below.
 
-You can now go to localhost and see the links.
-localhost/wordpress
+You can now go to localhost and see the links.\
+localhost/wordpress\
 localhost/phpmyadmin
 
-When you're inside the bash you can type `bash /tmp/auto_index.sh on`
+When you're inside the bash you can type `bash /tmp/auto_index.sh on`\
 or `bash /tmp/auto_index.sh off` to turn the auto_index on or off.
-</pre>
 
-
-
-**** Info ****
+## Info
 
 To do this project first you need to learn about docker.\
 The link below is a great tutorial about Docker and it's probably the only thing you should see about this subject.\
@@ -69,7 +64,7 @@ Find the ones in the port :80 and then kill it with\
 `sudo kill 1548`\
 1548 is an example.
 
-Some additional information:
+## Research
 
 <pre>
 
